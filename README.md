@@ -1,2 +1,3 @@
 # hello-world
-Juat teaching myself github
+Just teaching myself github
+words words words
